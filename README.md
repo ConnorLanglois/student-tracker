@@ -20,9 +20,9 @@ Clone the repo.
 
 Run the main file in a browser:
 
-	```
-	start/client-start.js
-	```
+```
+start/client-start.js
+```
 
 ## Deployment
 
